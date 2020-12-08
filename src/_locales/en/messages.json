@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "Gmail Chrome Extension",
+        "description": "Gmail Chrome Extension."
+    },
+    "appDescription": {
+        "message": "Gmail Chrome Extension",
+        "description": "The description of the extension."
+    },
+    "btnTooltip": {
+        "message": "Gmail Chrome Extension",
+        "description": "Tooltip for the button."
+    }
+}
